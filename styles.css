@@ -1,0 +1,25 @@
+body {
+    background-color: snow;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    padding: 40px;
+    font-family: verdana, sans-serif;
+}
+
+h2 {
+    font-size: 28px;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+    border: 2px solid rgb(121, 154, 252);
+    background-color: rgb(211, 250, 255);
+    padding: 15px;
+    margin: 35px;
+}
